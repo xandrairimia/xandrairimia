@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xandrairimia
+- 👀 I’m interested in UX/UI
+- 🌱 I’m currently learning front-end development and react basics.
+- 📫 How to reach me xandrairimia@gmail.com
